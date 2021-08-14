@@ -1,4 +1,4 @@
-# TicTacToePy
+# tictactoe.py
 A simple TicTacToe game written in Python
 # How to play
 Just launch the file (wow!)
